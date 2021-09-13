@@ -408,6 +408,7 @@
 
 ## JavaScript 
 
+- [small-tech/should-i-pipe-it](https://github.com/small-tech/should-i-pipe-it) - Is this installation script safe to pipe into my shell?
 - [stream-sync/iwdsync](https://github.com/stream-sync/iwdsync) - 
 - [shadowban-eu/shadowban-eu-frontend](https://github.com/shadowban-eu/shadowban-eu-frontend) - Frontend for https://shadowban.eu/
 - [doppioslash/simple-rss-twitter-bot](https://github.com/doppioslash/simple-rss-twitter-bot) - A bot that tweets every new article from an RSS feed.
